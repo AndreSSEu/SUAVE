@@ -18,6 +18,7 @@ from . import Attributes
 from . import Optimization
 from . import Input_Output
 from . import Plots
+from . import Time_Accurate
 
 # the vehicle class
 from .Vehicle import Vehicle

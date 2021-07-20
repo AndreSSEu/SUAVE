@@ -19,7 +19,6 @@ from SUAVE.Components.Energy.Networks import Battery_Propeller
 from SUAVE.Components.Energy.Networks import Lift_Cruise
 from SUAVE.Components.Energy.Networks import Vectored_Thrust
 
-from SUAVE.Components.Energy.Converters.Rotor import Rotor
 from SUAVE.Components.Energy.Converters.Lift_Rotor import Lift_Rotor
 from SUAVE.Components.Energy.Converters.Propeller import Propeller
 
